@@ -1,6 +1,8 @@
+
+
 # Lyrical-Bot
  Twitter Bot that tweets quotes from lyrics 
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 License
 ------------
