@@ -4,8 +4,8 @@ import lyricsgenius as lg
 import csv
 import random
 import json
-from os import environ
-GENIUS_TOKEN = environ("GENIUS_TOKEN")
+import os
+GENIUS_TOKEN = os.getenv("GENIUS_TOKEN")
 
 genius = lg.Genius(GENIUS_TOKEN, skip_non_songs=True, remove_section_headers=True)
 
