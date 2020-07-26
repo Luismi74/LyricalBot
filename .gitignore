@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 #others by Luis hehe
-*.webscrapper.py
+webscrapper.py
 requirements.txt
-*.vscode
-*.runtime.txt
+.vscode
+runtime.txt
