@@ -124,5 +124,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#others by Luis hehe
 webscrapper.py
 requirements.txt
+server.py
