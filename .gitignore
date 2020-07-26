@@ -126,6 +126,6 @@ dmypy.json
 
 #others by Luis hehe
 webscrapper.py
-requirements.txt
+#requirements.txt
 .vscode
-runtime.txt
+#runtime.txt
