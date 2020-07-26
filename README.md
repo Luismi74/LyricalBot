@@ -23,8 +23,8 @@ Dependencies
   * Tweepy==3.9.0
   * Lyricsgenius==1.8.6
 
-        pip install Tweepy
-        pip install lyricsgenius
+       pip install Tweepy
+       pip install lyricsgenius
 
 You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write then generate new Oauth Tokens.
 
