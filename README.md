@@ -1,13 +1,14 @@
 
 
 <h1 align="center">Lyrical-Bot</h1>
-
+<h4 align="center"> 
 Twitter Bot that tweets quotes from lyrics 
-<p align="center"> 
+</h4>
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)
-</p>
+
 License
 ------------
 
