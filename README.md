@@ -21,9 +21,22 @@ Dependencies
   * Twitter API
   * Tweepy==3.9.0
   * Lyricsgenius==1.8.6
+  
+ 
 
 You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write then generate new Oauth Tokens.
 
 Usage
 ------------
-
+    . 
+    LyricalBot/
+    │
+    ├── src/
+    │   ├── env_settings.py
+    │   └── keys.py
+    │   └── artists.csv
+    │   └── lyrics.json
+    │
+    ├── geniusAPI.py  
+    ├── main.py
+    └── requirements.txt
