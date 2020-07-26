@@ -43,7 +43,7 @@ Usage
     ├── main.py
     └── requirements.txt
 
-To change how many songs you want to query for a specific artist, navigate to geniusAPI.py and change the value `max_songs`:
+To change how many songs you want to query for a specific artist, navigate to `geniusAPI.py` and change the value `max_songs`:
 
 ```python
 artist = genius.search_artist(artist_str, max_songs=25, sort="title")
