@@ -27,13 +27,13 @@ print (artist_str)
 def genius_song(artist_str):  
     artist = genius.search_artist(artist_str, max_songs=25, sort="title")
     select_song = random.choice(artist.songs)
-    lyrics = select_song.save_lyrics('lyrics.json', overwrite=True, extension='json')
+    lyrics = select_song.save_lyrics('src/lyrics.json', overwrite=True, extension='json')
     return print (select_song)
 
 new_song = genius_song(artist_str)
 print (new_song)
 
-json_file = open('lyrics.json', 'r', encoding='utf-8')
+json_file = open('src/lyrics.json', 'r', encoding='utf-8')
 json_data=json.load(json_file)
 # metadata 
 song_meta = json_data['full_title']
