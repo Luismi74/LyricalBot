@@ -1,39 +1,39 @@
 {
  "annotation_count": 1,
- "api_path": "/songs/1968158",
- "apple_music_id": "434949643",
- "apple_music_player_url": "https://genius.com/songs/1968158/apple_music_player",
+ "api_path": "/songs/1505056",
+ "apple_music_id": "388245742",
+ "apple_music_player_url": "https://genius.com/songs/1505056/apple_music_player",
  "description": {
   "plain": "?"
  },
- "embed_content": "<div id='rg_embed_link_1968158' class='rg_embed_link' data-song-id='1968158'>Read <a href='https://genius.com/Omega-el-fuerte-amor-urbano-2-lyrics'>\u201cAmor urbano 2\u201d by Omega\u00a0El Fuerte</a> on Genius</div> <script crossorigin src='//genius.com/songs/1968158/embed.js'></script>",
+ "embed_content": "<div id='rg_embed_link_1505056' class='rg_embed_link' data-song-id='1505056'>Read <a href='https://genius.com/Omega-a-jovendomondo-lyrics'>\u201cA j\u00f6vend\u0151mond\u00f3\u201d by Omega</a> on Genius</div> <script crossorigin src='//genius.com/songs/1505056/embed.js'></script>",
  "featured_video": false,
- "full_title": "Amor urbano 2 by\u00a0Omega\u00a0El Fuerte",
- "header_image_thumbnail_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.300x300x1.jpg",
- "header_image_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.428x428x1.jpg",
- "id": 1968158,
+ "full_title": "A j\u00f6vend\u0151mond\u00f3 by\u00a0Omega",
+ "header_image_thumbnail_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+ "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+ "id": 1505056,
  "lyrics_owner_id": 1549345,
  "lyrics_placeholder_reason": null,
  "lyrics_state": "complete",
- "path": "/Omega-el-fuerte-amor-urbano-2-lyrics",
+ "path": "/Omega-a-jovendomondo-lyrics",
  "pyongs_count": null,
  "recording_location": null,
  "release_date": null,
  "release_date_for_display": null,
- "song_art_image_thumbnail_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.300x300x1.jpg",
- "song_art_image_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.428x428x1.jpg",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
  "stats": {
   "accepted_annotations": 0,
-  "contributors": 2,
-  "iq_earners": 1,
+  "contributors": 1,
+  "iq_earners": 0,
   "transcribers": 1,
   "unreviewed_annotations": 0,
   "verified_annotations": 0,
   "hot": false
  },
- "title": "Amor urbano 2",
- "title_with_featured": "Amor urbano 2",
- "url": "https://genius.com/Omega-el-fuerte-amor-urbano-2-lyrics",
+ "title": "A j\u00f6vend\u0151mond\u00f3",
+ "title_with_featured": "A j\u00f6vend\u0151mond\u00f3",
+ "url": "https://genius.com/Omega-a-jovendomondo-lyrics",
  "current_user_metadata": {
   "permissions": [
    "view_apple_music_player",
@@ -105,41 +105,58 @@
   "relationships": {},
   "iq_by_action": {}
  },
- "album": null,
+ "album": {
+  "api_path": "/albums/254097",
+  "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1595518159",
+  "full_title": "Omega 5 by Omega",
+  "id": 254097,
+  "name": "Omega 5",
+  "url": "https://genius.com/albums/Omega/Omega-5",
+  "artist": {
+   "api_path": "/artists/15328",
+   "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+   "id": 15328,
+   "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Omega",
+   "url": "https://genius.com/artists/Omega"
+  }
+ },
  "custom_performances": [],
  "description_annotation": {
   "_type": "referent",
   "annotator_id": 1549345,
   "annotator_login": "pressburg",
-  "api_path": "/referents/6654594",
+  "api_path": "/referents/6019389",
   "classification": "needs_exegesis",
-  "fragment": "Amor urbano 2",
-  "id": 6654594,
+  "fragment": "A j\u00f6vend\u0151mond\u00f3",
+  "id": 6019389,
   "is_description": true,
-  "path": "/6654594/Omega-el-fuerte-amor-urbano-2/Amor-urbano-2",
+  "path": "/6019389/Omega-a-jovendomondo/A-jovendomondo",
   "range": {
-   "content": "Amor urbano 2"
+   "content": "A j\u00f6vend\u0151mond\u00f3"
   },
-  "song_id": 1968158,
-  "url": "https://genius.com/6654594/Omega-el-fuerte-amor-urbano-2/Amor-urbano-2",
+  "song_id": 1505056,
+  "url": "https://genius.com/6019389/Omega-a-jovendomondo/A-jovendomondo",
   "verified_annotator_ids": [],
   "annotatable": {
-   "api_path": "/songs/1968158",
+   "api_path": "/songs/1505056",
    "client_timestamps": {
-    "updated_by_human_at": 1586616404,
-    "lyrics_updated_at": 1432928283
+    "updated_by_human_at": 1479246629,
+    "lyrics_updated_at": 1429892694
    },
-   "context": "Omega El Fuerte",
-   "id": 1968158,
-   "image_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.428x428x1.jpg",
-   "link_title": "Amor urbano 2 by\u00a0Omega\u00a0El Fuerte",
-   "title": "Amor urbano 2",
+   "context": "Omega",
+   "id": 1505056,
+   "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+   "link_title": "A j\u00f6vend\u0151mond\u00f3 by\u00a0Omega",
+   "title": "A j\u00f6vend\u0151mond\u00f3",
    "type": "Song",
-   "url": "https://genius.com/Omega-el-fuerte-amor-urbano-2-lyrics"
+   "url": "https://genius.com/Omega-a-jovendomondo-lyrics"
   },
   "annotations": [
    {
-    "api_path": "/annotations/6654594",
+    "api_path": "/annotations/6019389",
     "body": {
      "plain": ""
     },
@@ -147,12 +164,12 @@
     "community": true,
     "custom_preview": null,
     "has_voters": false,
-    "id": 6654594,
+    "id": 6019389,
     "pinned": false,
-    "share_url": "https://genius.com/6654594",
+    "share_url": "https://genius.com/6019389",
     "source": null,
     "state": "needs_exegesis",
-    "url": "https://genius.com/6654594/Omega-el-fuerte-amor-urbano-2/Amor-urbano-2",
+    "url": "https://genius.com/6019389/Omega-a-jovendomondo/A-jovendomondo",
     "verified": false,
     "votes_total": 0,
     "current_user_metadata": {
@@ -247,14 +264,14 @@
  "lyrics_marked_complete_by": null,
  "media": [],
  "primary_artist": {
-  "api_path": "/artists/391877",
-  "header_image_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.428x428x1.jpg",
-  "id": 391877,
-  "image_url": "https://images.genius.com/94a183cbffcd2bb8df1ac337efef1047.428x428x1.jpg",
+  "api_path": "/artists/15328",
+  "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+  "id": 15328,
+  "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
   "is_meme_verified": false,
   "is_verified": false,
-  "name": "Omega El Fuerte",
-  "url": "https://genius.com/artists/Omega-el-fuerte"
+  "name": "Omega",
+  "url": "https://genius.com/artists/Omega"
  },
  "producer_artists": [],
  "song_relationships": [
@@ -313,5 +330,5 @@
  "verified_contributors": [],
  "verified_lyrics_by": [],
  "writer_artists": [],
- "lyrics": "Me quiere te quiero te amo mi cielo\nMe lleva te llevo soy solo tuyo\nMe quiere te quiero te amo mi cielo\nMe quiere te quiero te amo mi cielo\nMe lleva te llevo soy solo tuyo\nMe quiere te quiero te amo mi cielo\nMe lleva te llevo soy solo tuyo\nAhy mami no me dejes solo en esta oscuridad\nQue ya no quiero sin tus besos, solo caminar\nQue ya no quiero estar tan solo en esta habitacion\n&amp; viendo sobre en mi armoada un dolor de amor\nAhy mami no me dejes solo en esta oscuridad\nQue ya no quiero sin tus besos solo caminar\nQue ya no quiero estar tan triste en una habitacion\nLlorando sobre mi armoada un dolor de amor\nAqui estoy sin ti tan solo..pensando en ti\nAqui estoy sin ti tan solo.. muriendo por ti\nAqui estoy sin ti tan solo.. pensando en ti\nAqui estoy sin ti tan solo.. muriendo por ti\nEs que mami, te marchaste de mi lado &amp; no volveras\nPero un dia yo se que te vere &amp; que ahy sentire paz\nYo se que en mi camino no encotrare otra nena como tu\nQue me haga feliz que me de la calma &amp; que me lleve a la luz\nEl ma criminal!!\nMe lleve a la luz como tu\nA tocar el cielo como tu\n(tu,tu,tu,tu)\nMe lleve a la luz como tu\nMe quiere te quiero te amo mi cielo\nMe lleva te llevo soy solo tuyo\nMe quiere te quiero te amo mi cielo\nMe lleva te llevo soy solo tuyo\n(que van hacer con el real!!)\nAhy mami no me dejes solo en esta oscuridad\nQue ya no quiero sin tus besos, solo caminar\nQue ya no quiero estar tan solo en esta habitacion\n&amp; viendo sobre en mi armoada un dolor de amor\nMe quiere\nTe amo\nMe lleva\nSoy solo tuyo(como eh que dice)\nSoy solo tuyo(como eh que dice)\nSoy solo tuyo(dile)"
+ "lyrics": "Ha tudn\u00e1d, amit tudok \u00e9n\n\u00cdgy sz\u00f3lt az a fura egy\u00e9n\nHa tudn\u00e1d, amit tudok \u00e9n\nM\u00e1sk\u00e9pp \u00e1lln\u00e1l ide el\u00e9m\n\u00cdgy besz\u00e9lt\nHallgasd, mit hoz a j\u00f6v\u0151d:\nAz \u00fat v\u00e9g\u00e9n egy szemfed\u0151t\nAddig olyan szeret\u0151t\nMegcsal, hogyha szereted \u0151t\n\u00cdgy besz\u00e9lt\nAkarom\nSz\u00f3ltam erre \u00e9n\nAkarom\nMondtam \u00e9n\nAkarom\nAz \u00e9let t\u00f6bb legyen\n\u00c9s tettem r\u00f3la \u00e9n\nF\u00e1raszt majd a rohan\u00e1s\nA c\u00e9ln\u00e1l mindig valaki m\u00e1s\nNaggy\u00e1 sose leszel itt\nH\u00faznak le az irigyeid\n\u00cdgy besz\u00e9lt\nAkarom\nSz\u00f3ltam erre \u00e9n\nAkarom\nMondtam \u00e9n\nAkarom\nAz \u00e9let t\u00f6bb legyen\n\u00c9s tettem r\u00f3la \u00e9n"
 }

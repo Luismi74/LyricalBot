@@ -27,13 +27,13 @@ def main():
 
         converted_lyrics = lyrics_conversion(lyrics_data)
         lyrics_rd = lyrics_cleaning(converted_lyrics)
-        
+        lyrics_rd.encode(encoding='UTF-8')
         print (converted_lyrics)
         print (lyrics_rd)
         # send the tweet with lyrics
         api.update_status("%s \n (Song: %s)" %(lyrics_rd, song_meta))
         json_file.close()
-        time.sleep(900)
+        time.sleep(1200)
 
 if __name__ == "__main__":
     main()
