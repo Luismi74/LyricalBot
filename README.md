@@ -36,8 +36,8 @@ Usage
     │   ├── env_settings.py
     │   └── keys.py
     │   └── artists.csv
-    │   └── lyrics.json
     │
+    ├── lyrics.json
     ├── geniusAPI.py  
     ├── main.py
     └── requirements.txt

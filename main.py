@@ -20,7 +20,7 @@ def main():
         print (new_song)
         
         #manipulate json file
-        json_file = open('src/lyrics.json', 'r', encoding='utf-8')
+        json_file = open('lyrics.json', 'r', encoding='utf-8')
         json_data=json.load(json_file)
         song_meta = json_data['full_title']
         lyrics_data = json_data['lyrics']
