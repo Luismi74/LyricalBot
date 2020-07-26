@@ -8,7 +8,7 @@ import json
 
 def main():
     while True:
-        with open('artists.csv') as f:
+        with open('src/artists.csv') as f:
             csv_reader = csv.reader(f)
             artist_row = random.choice(list(csv_reader))
             
