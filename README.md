@@ -2,8 +2,8 @@
 
 <h1 align="center">Lyrical-Bot</h1>
 
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]
-[![Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)]
+![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)
+![Stable](https://img.shields.io/badge/status-stable-brightgreen.svg)
 <h3 align="center"> 
 Twitter Bot that tweets quotes from lyrics
 </h3>
