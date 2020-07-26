@@ -14,8 +14,8 @@ Dependencies
   * Tweepy==3.9.0
   * Lyricsgenius==1.8.6
 
-You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write. Generate new Oauth Tokens.
+You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write then generate new Oauth Tokens.
 
-Susage
+Usage
 ------------
 
