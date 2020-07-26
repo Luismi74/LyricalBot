@@ -25,7 +25,7 @@ print (artist_str)
 
 # select the song and save the lyrics to a json file 
 def genius_song(artist_str):  
-    artist = genius.search_artist(artist_str, max_songs=2, sort="title")
+    artist = genius.search_artist(artist_str, max_songs=25, sort="title")
     select_song = random.choice(artist.songs)
     lyrics = select_song.save_lyrics('lyrics.json', overwrite=True, extension='json')
     return print (select_song)
