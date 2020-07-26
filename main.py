@@ -1,5 +1,5 @@
 import tweepy
-from keys import api
+from src.keys import api
 from geniusAPI import lyrics_cleaning, lyrics_conversion, genius_song, converttostr
 import time
 import csv

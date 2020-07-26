@@ -10,7 +10,7 @@ GENIUS_TOKEN = os.getenv("GENIUS_TOKEN")
 genius = lg.Genius(GENIUS_TOKEN, skip_non_songs=True, remove_section_headers=True)
 
 # random pick an artist from the csv
-with open('artists.csv') as f:
+with open('src/artists.csv') as f:
     csv_reader = csv.reader(f)
     artist_row = random.choice(list(csv_reader))
 

@@ -1,41 +1,43 @@
 {
- "annotation_count": 1,
- "api_path": "/songs/1505056",
- "apple_music_id": "388245742",
- "apple_music_player_url": "https://genius.com/songs/1505056/apple_music_player",
+ "annotation_count": 5,
+ "api_path": "/songs/4406950",
+ "apple_music_id": null,
+ "apple_music_player_url": "https://genius.com/songs/4406950/apple_music_player",
  "description": {
   "plain": "?"
  },
- "embed_content": "<div id='rg_embed_link_1505056' class='rg_embed_link' data-song-id='1505056'>Read <a href='https://genius.com/Omega-a-jovendomondo-lyrics'>\u201cA j\u00f6vend\u0151mond\u00f3\u201d by Omega</a> on Genius</div> <script crossorigin src='//genius.com/songs/1505056/embed.js'></script>",
+ "embed_content": "<div id='rg_embed_link_4406950' class='rg_embed_link' data-song-id='4406950'>Read <a href='https://genius.com/Dababy-baby-on-baby-out-now-freestyle-lyrics'>\u201cBaby on Baby Out Now Freestyle\u201d by DaBaby</a> on Genius</div> <script crossorigin src='//genius.com/songs/4406950/embed.js'></script>",
  "featured_video": false,
- "full_title": "A j\u00f6vend\u0151mond\u00f3 by\u00a0Omega",
- "header_image_thumbnail_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
- "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
- "id": 1505056,
- "lyrics_owner_id": 1549345,
+ "full_title": "Baby on Baby Out Now Freestyle by\u00a0DaBaby",
+ "header_image_thumbnail_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.1000x1000x1.jpg",
+ "id": 4406950,
+ "lyrics_owner_id": 3187955,
  "lyrics_placeholder_reason": null,
  "lyrics_state": "complete",
- "path": "/Omega-a-jovendomondo-lyrics",
+ "path": "/Dababy-baby-on-baby-out-now-freestyle-lyrics",
  "pyongs_count": null,
  "recording_location": null,
- "release_date": null,
- "release_date_for_display": null,
- "song_art_image_thumbnail_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
- "song_art_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+ "release_date": "2019-03-18",
+ "release_date_for_display": "March 18, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.1000x1000x1.jpg",
  "stats": {
-  "accepted_annotations": 0,
-  "contributors": 1,
-  "iq_earners": 0,
-  "transcribers": 1,
+  "accepted_annotations": 5,
+  "contributors": 11,
+  "iq_earners": 11,
+  "transcribers": 4,
   "unreviewed_annotations": 0,
   "verified_annotations": 0,
-  "hot": false
+  "hot": false,
+  "pageviews": 17199
  },
- "title": "A j\u00f6vend\u0151mond\u00f3",
- "title_with_featured": "A j\u00f6vend\u0151mond\u00f3",
- "url": "https://genius.com/Omega-a-jovendomondo-lyrics",
+ "title": "Baby on Baby Out Now Freestyle",
+ "title_with_featured": "Baby on Baby Out Now Freestyle",
+ "url": "https://genius.com/Dababy-baby-on-baby-out-now-freestyle-lyrics",
  "current_user_metadata": {
   "permissions": [
+   "see_pageviews",
    "view_apple_music_player",
    "create_comment",
    "view_song_story_gallery"
@@ -44,7 +46,6 @@
    "follow",
    "award_transcription_iq",
    "remove_transcription_iq",
-   "see_pageviews",
    "pyong",
    "edit_lyrics",
    "view_annotation_engagement_data",
@@ -106,57 +107,123 @@
   "iq_by_action": {}
  },
  "album": {
-  "api_path": "/albums/254097",
-  "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1595518159",
-  "full_title": "Omega 5 by Omega",
-  "id": 254097,
-  "name": "Omega 5",
-  "url": "https://genius.com/albums/Omega/Omega-5",
+  "api_path": "/albums/597499",
+  "cover_art_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.1000x1000x1.jpg",
+  "full_title": "Menace II Society: Vol. 2 by MenaceGIDA",
+  "id": 597499,
+  "name": "Menace II Society: Vol. 2",
+  "url": "https://genius.com/albums/Menacegida/Menace-ii-society-vol-2",
   "artist": {
-   "api_path": "/artists/15328",
-   "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
-   "id": 15328,
-   "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+   "api_path": "/artists/2011012",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+   "id": 2011012,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
    "is_meme_verified": false,
    "is_verified": false,
-   "name": "Omega",
-   "url": "https://genius.com/artists/Omega"
+   "name": "MenaceGIDA",
+   "url": "https://genius.com/artists/Menacegida"
   }
  },
- "custom_performances": [],
+ "custom_performances": [
+  {
+   "label": "Videographer",
+   "artists": [
+    {
+     "api_path": "/artists/560764",
+     "header_image_url": "https://images.genius.com/9862441847294b24fb52a5fae361ec0a.960x960x1.jpg",
+     "id": 560764,
+     "image_url": "https://images.genius.com/9862441847294b24fb52a5fae361ec0a.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Slinger",
+     "url": "https://genius.com/artists/Slinger"
+    },
+    {
+     "api_path": "/artists/1706605",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "id": 1706605,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Spicy Rico",
+     "url": "https://genius.com/artists/Spicy-rico"
+    },
+    {
+     "api_path": "/artists/1698015",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "id": 1698015,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Rico",
+     "url": "https://genius.com/artists/James-rico"
+    }
+   ]
+  },
+  {
+   "label": "Video Dp",
+   "artists": [
+    {
+     "api_path": "/artists/1698015",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "id": 1698015,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1595518159",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "James Rico",
+     "url": "https://genius.com/artists/James-rico"
+    }
+   ]
+  },
+  {
+   "label": "Video Director",
+   "artists": [
+    {
+     "api_path": "/artists/1698014",
+     "header_image_url": "https://images.genius.com/42662da7aa8b00408c3d28da816da1f2.400x400x1.png",
+     "id": 1698014,
+     "image_url": "https://images.genius.com/42662da7aa8b00408c3d28da816da1f2.400x400x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Reel Goats",
+     "url": "https://genius.com/artists/Reel-goats"
+    }
+   ]
+  }
+ ],
  "description_annotation": {
   "_type": "referent",
-  "annotator_id": 1549345,
-  "annotator_login": "pressburg",
-  "api_path": "/referents/6019389",
+  "annotator_id": 3187955,
+  "annotator_login": "GuyFuegoFieri",
+  "api_path": "/referents/16755357",
   "classification": "needs_exegesis",
-  "fragment": "A j\u00f6vend\u0151mond\u00f3",
-  "id": 6019389,
+  "fragment": "Baby on Baby Out Now Freestyle",
+  "id": 16755357,
   "is_description": true,
-  "path": "/6019389/Omega-a-jovendomondo/A-jovendomondo",
+  "path": "/16755357/Dababy-baby-on-baby-out-now-freestyle/Baby-on-baby-out-now-freestyle",
   "range": {
-   "content": "A j\u00f6vend\u0151mond\u00f3"
+   "content": "Baby on Baby Out Now Freestyle"
   },
-  "song_id": 1505056,
-  "url": "https://genius.com/6019389/Omega-a-jovendomondo/A-jovendomondo",
+  "song_id": 4406950,
+  "url": "https://genius.com/16755357/Dababy-baby-on-baby-out-now-freestyle/Baby-on-baby-out-now-freestyle",
   "verified_annotator_ids": [],
   "annotatable": {
-   "api_path": "/songs/1505056",
+   "api_path": "/songs/4406950",
    "client_timestamps": {
-    "updated_by_human_at": 1479246629,
-    "lyrics_updated_at": 1429892694
+    "updated_by_human_at": 1580595969,
+    "lyrics_updated_at": 1580595969
    },
-   "context": "Omega",
-   "id": 1505056,
-   "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
-   "link_title": "A j\u00f6vend\u0151mond\u00f3 by\u00a0Omega",
-   "title": "A j\u00f6vend\u0151mond\u00f3",
+   "context": "DaBaby",
+   "id": 4406950,
+   "image_url": "https://images.genius.com/99214d9eaaa10f95efb6802dbc200721.1000x1000x1.jpg",
+   "link_title": "Baby on Baby Out Now Freestyle by\u00a0DaBaby",
+   "title": "Baby on Baby Out Now Freestyle",
    "type": "Song",
-   "url": "https://genius.com/Omega-a-jovendomondo-lyrics"
+   "url": "https://genius.com/Dababy-baby-on-baby-out-now-freestyle-lyrics"
   },
   "annotations": [
    {
-    "api_path": "/annotations/6019389",
+    "api_path": "/annotations/16755357",
     "body": {
      "plain": ""
     },
@@ -164,12 +231,12 @@
     "community": true,
     "custom_preview": null,
     "has_voters": false,
-    "id": 6019389,
+    "id": 16755357,
     "pinned": false,
-    "share_url": "https://genius.com/6019389",
+    "share_url": "https://genius.com/16755357",
     "source": null,
     "state": "needs_exegesis",
-    "url": "https://genius.com/6019389/Omega-a-jovendomondo/A-jovendomondo",
+    "url": "https://genius.com/16755357/Dababy-baby-on-baby-out-now-freestyle/Baby-on-baby-out-now-freestyle",
     "verified": false,
     "votes_total": 0,
     "current_user_metadata": {
@@ -203,45 +270,45 @@
       "attribution": 1.0,
       "pinned_role": null,
       "user": {
-       "api_path": "/users/1549345",
+       "api_path": "/users/3187955",
        "avatar": {
         "tiny": {
-         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/tiny/83300beb86a0571af05fb63b4ebe1d44",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/thumb/83300beb86a0571af05fb63b4ebe1d44",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/small/83300beb86a0571af05fb63b4ebe1d44",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/medium/83300beb86a0571af05fb63b4ebe1d44",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
-       "human_readable_role_for_display": null,
-       "id": 1549345,
-       "iq": 0,
-       "login": "pressburg",
-       "name": "pressburg",
-       "role_for_display": null,
-       "url": "https://genius.com/pressburg",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lmvsuthr58c",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3187955,
+       "iq": 51417,
+       "login": "GuyFuegoFieri",
+       "name": "GuyFuegoFieri",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/GuyFuegoFieri",
        "current_user_metadata": {
         "permissions": [],
         "excluded_permissions": [
@@ -262,18 +329,38 @@
  },
  "featured_artists": [],
  "lyrics_marked_complete_by": null,
- "media": [],
+ "media": [
+  {
+   "provider": "youtube",
+   "start": 0,
+   "type": "video",
+   "url": "http://www.youtube.com/watch?v=dDH0EukOeuY"
+  }
+ ],
  "primary_artist": {
-  "api_path": "/artists/15328",
-  "header_image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
-  "id": 15328,
-  "image_url": "https://images.genius.com/2cecdb0536924b2a592198d21e25ea7b.230x230x1.jpg",
+  "api_path": "/artists/1162342",
+  "header_image_url": "https://images.genius.com/0c36e17a76bb2a69ec15b06133cb872b.1000x250x1.jpg",
+  "id": 1162342,
+  "image_url": "https://images.genius.com/8e568122e28494802bc4ef822356b2f9.1000x1000x1.jpg",
   "is_meme_verified": false,
-  "is_verified": false,
-  "name": "Omega",
-  "url": "https://genius.com/artists/Omega"
+  "is_verified": true,
+  "name": "DaBaby",
+  "url": "https://genius.com/artists/Dababy",
+  "iq": 1053
  },
- "producer_artists": [],
+ "producer_artists": [
+  {
+   "api_path": "/artists/1617510",
+   "header_image_url": "https://images.genius.com/7d73e2d59cc9d7ed6c726748626c0846.1000x563x1.jpg",
+   "id": 1617510,
+   "image_url": "https://images.genius.com/28e9ea3347d1c0802de369eac5a4971d.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Producer 20",
+   "url": "https://genius.com/artists/Producer-20",
+   "iq": 197
+  }
+ ],
  "song_relationships": [
   {
    "relationship_type": "samples",
@@ -329,6 +416,18 @@
  "verified_annotations_by": [],
  "verified_contributors": [],
  "verified_lyrics_by": [],
- "writer_artists": [],
- "lyrics": "Ha tudn\u00e1d, amit tudok \u00e9n\n\u00cdgy sz\u00f3lt az a fura egy\u00e9n\nHa tudn\u00e1d, amit tudok \u00e9n\nM\u00e1sk\u00e9pp \u00e1lln\u00e1l ide el\u00e9m\n\u00cdgy besz\u00e9lt\nHallgasd, mit hoz a j\u00f6v\u0151d:\nAz \u00fat v\u00e9g\u00e9n egy szemfed\u0151t\nAddig olyan szeret\u0151t\nMegcsal, hogyha szereted \u0151t\n\u00cdgy besz\u00e9lt\nAkarom\nSz\u00f3ltam erre \u00e9n\nAkarom\nMondtam \u00e9n\nAkarom\nAz \u00e9let t\u00f6bb legyen\n\u00c9s tettem r\u00f3la \u00e9n\nF\u00e1raszt majd a rohan\u00e1s\nA c\u00e9ln\u00e1l mindig valaki m\u00e1s\nNaggy\u00e1 sose leszel itt\nH\u00faznak le az irigyeid\n\u00cdgy besz\u00e9lt\nAkarom\nSz\u00f3ltam erre \u00e9n\nAkarom\nMondtam \u00e9n\nAkarom\nAz \u00e9let t\u00f6bb legyen\n\u00c9s tettem r\u00f3la \u00e9n"
+ "writer_artists": [
+  {
+   "api_path": "/artists/1162342",
+   "header_image_url": "https://images.genius.com/0c36e17a76bb2a69ec15b06133cb872b.1000x250x1.jpg",
+   "id": 1162342,
+   "image_url": "https://images.genius.com/8e568122e28494802bc4ef822356b2f9.1000x1000x1.jpg",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "DaBaby",
+   "url": "https://genius.com/artists/Dababy",
+   "iq": 1053
+  }
+ ],
+ "lyrics": "That ain't DaBaby, that's my baby\n\nNigga, off the top, what the fuck you thought?\nI ain't gotta wait to kick it\nIf a bitch want me, then the bitch gon' wait\nI ain't gotta wait for bitches (Ha)\nIf I feel like playin', I'ma play with my kid\nI ain't finna play with niggas (Uh-uh)\nAnd I got a gun for every room I got in my crib\nYou could say I stay with pistols (Bitch)\nYou could say that I stay with another nigga bitch\nYou could tell if you play, I'm clickin' (Let's go)\nYou could tell that I'm nothing like none of these rappers\nEverybody know Baby different (Yeah)\nAnd no, I'm not no muh'fuckin' tough guy (Uh-huh)\nBut if you play with me, put 'em up high (Yeah)\nMy bitch, she got pretty skin and pretty eyes\nShe look just like TLC Left Eye (Uh-huh)\nAnd I can't be fucking them hoes from my city\nBut if I do, she from the Westside (The West)\nAnd I can't be fucking you bitches for free\nYou gotta pay me, ho, I'm that fine (Ha)\nWe in this bitch, now we on that time\nI don't gotta pay for the sauce so I stack mine (Yeah)\nAnd I can wear sweatpants like every day\nAnd take your bitch like, \"That's mine\" (Okay)\nAnd you gon' go blow your shit on clothes and shit\nBut watch me invest mine (Uh-huh)\nAnd I'ma show other niggas how to get some money\nWe ain't waiting on tax time (Talk to 'em)\nAnd I ain't playing no motherfuckin' scratch off (Uh-huh)\nI'm tryna go get me some money (Yeah)\nGive jobs to my niggas, yeah, bitch, who the realest?\nI ain't being stingy with money (Uh-huh)\nI told 'em I'm Pac of the new shit (Pac)\nYou could reach in my pockets a new blue shit (Yeah)\nAnd Baby on Baby out now\nWhen my shit come on, everybody like, \"Who this?\" (Who)\nI know they gon' copy the flavor\nI ain't really tripping, lil' nigga I do this (Uh-huh)\nPull up to the scene with a new ho (She new)\nThem fifties all pink like they Nuvo (Huh)\nThem diamonds be dancing like Bruno (Mars)\nTell Future to meet me on Pluto (Yeah)\nTell your bitch to meet me in Miami\nI need a vacation (Ah), I'm tryna bring two hoes (Ah)\nFuck around and come back with a J.Lo\nI'm strapped like them niggas on Halo (Yeah, yeah)\nMy sauce ain't easy to copy, yeah they try to jock it (Huh)\nCan't do what I do though (Huh)\nI could've dropped Baby on Baby and let that shit rock\nBut fuck that, I ain't full, though (Uh-uh)\nYeah, bitch, I'm still hungry, I need more (Eat)\nI take that backend and play CeeLo (Huh?)\nThey like my CD, it's on repeat (Yeah)\nShe clean up the dick (Uh), she a neat freak (Mhm)\nAnd you lookin' at the best motherfuckin' rapper in his face when you see me, nigga\n\nThe best motherfuckin' rapper, nigga, yeah, fuck you talkin' about, nigga? (I got 20 on my beat)\nDaBaby, yeah, Baby Jesus\nBaby on Baby out now, hardest shit out right now (Fuck), better than all that shit\nFuck what these niggas talkin' 'bout, better than all that shit, the hardest shit out (Prettiest Charlotte rapper alive)\nBaby on Baby, nigga (Think it ain't on me?)\nYou see what I'm sayin'? Better than all that shit, I'm the best muh'fuckin' rapper\nPut me in the room with any motherfuckin' rapper, you know? Yeah, yeah, nigga, fuck they talkin' 'bout? We in there now, and I'm, I'm just gonna drop this, I'm just gonna chill, chill, fuckin' with Baby, keep rockin'\nBaby on Baby out now (That ain't DaBaby, that's my baby), I'ma chill, huh?\n\"Baby on Baby Freestyle\"\nI got 20 on my beat"
 }
