@@ -33,7 +33,7 @@ def main():
         # send the tweet with lyrics
         api.update_status("%s \n (Song: %s)" %(lyrics_rd, song_meta))
         json_file.close()
-        time.sleep(300)
+        time.sleep(900)
 
 if __name__ == "__main__":
     main()
