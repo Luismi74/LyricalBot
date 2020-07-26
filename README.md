@@ -1,6 +1,12 @@
-# Lyrical-Bot
- Twitter Bot that tweets quotes from lyrics 
 
+
+# Lyrical-Bot
+
+Twitter Bot that tweets quotes from lyrics 
+ 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)
 
 License
 ------------
@@ -14,8 +20,8 @@ Dependencies
   * Tweepy==3.9.0
   * Lyricsgenius==1.8.6
 
-You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write. Generate new Oauth Tokens.
+You will also need to create an app account on https://dev.twitter.com/apps and modify the settings permissions to read and write then generate new Oauth Tokens.
 
-Susage
+Usage
 ------------
 
