@@ -28,6 +28,7 @@ def main():
         converted_lyrics = lyrics_conversion(lyrics_data)
         lyrics_rd = lyrics_cleaning(converted_lyrics)
         lyrics_rd.encode(encoding='UTF-8')
+        lyrics_rd.replace('u\2005', ' ')
         print (converted_lyrics)
         print (lyrics_rd)
         # send the tweet with lyrics
