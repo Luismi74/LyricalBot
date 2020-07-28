@@ -43,7 +43,7 @@ Usage
     ├── main.py
     └── requirements.txt
 
-The Bot is being fed by a list os artist who are in the `src/artists.csv` file, if you want to add a new artist you can contribute with a pull request 🖖
+The Bot uses a list os artist located in the `src/artists.csv` file, if you want to add a new artist you can contribute with a pull request 🖖
 
 To change how many songs you want to query for a specific artist, navigate to `geniusAPI.py` and change the value `max_songs`:
 
@@ -51,5 +51,12 @@ To change how many songs you want to query for a specific artist, navigate to `g
 artist = genius.search_artist(artist_str, max_songs=25, sort="title")
 ```
 
+Lyrics are song metadata are stroed in the `lyrics.json` file extracted using the [Lyricgenius API](https://github.com/johnwmillr/lyricsgenius)
+
+If you want to change the amount of time it takes to tweet, go to the main file `main.py` and change the time in seconds:
+
+```python
+time.sleep(900)
+```
 
 
