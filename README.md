@@ -43,9 +43,13 @@ Usage
     ├── main.py
     └── requirements.txt
 
+The Bot is being fed by a list os artist who are in the `src/artists.csv` file, if you want to add a new artist you can contribute with a pull request 🖖
+
 To change how many songs you want to query for a specific artist, navigate to `geniusAPI.py` and change the value `max_songs`:
 
 ```python
 artist = genius.search_artist(artist_str, max_songs=25, sort="title")
 ```
+
+
 
