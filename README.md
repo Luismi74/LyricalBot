@@ -9,7 +9,7 @@ Twitter Bot that tweets quotes from lyrics
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/fo-real.svg)](https://forthebadge.com)
 
-### Check it out: [Twitter Link](https://twitter.com/BotLyrical).
+### Check it out: [Twitter Link](https://twitter.com/BotLyrical)
 
 Dependencies
 ------------
