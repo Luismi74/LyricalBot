@@ -1,43 +1,41 @@
 {
- "annotation_count": 8,
- "api_path": "/songs/3772164",
- "apple_music_id": "1397943587",
- "apple_music_player_url": "https://genius.com/songs/3772164/apple_music_player",
+ "annotation_count": 1,
+ "api_path": "/songs/1434306",
+ "apple_music_id": "716616975",
+ "apple_music_player_url": "https://genius.com/songs/1434306/apple_music_player",
  "description": {
-  "plain": "Countin' Up is one of the hottest singles on Rico Nasty\u2019s album \u201cNasty\u201d It features her glow up in her career and lets her haters know she doesn\u2019t care because she\u2019s getting paid."
+  "plain": "?"
  },
- "embed_content": "<div id='rg_embed_link_3772164' class='rg_embed_link' data-song-id='3772164'>Read <a href='https://genius.com/Rico-nasty-countin-up-lyrics'>\u201cCountin' Up\u201d by Rico\u00a0Nasty</a> on Genius</div> <script crossorigin src='//genius.com/songs/3772164/embed.js'></script>",
- "featured_video": true,
- "full_title": "Countin' Up by\u00a0Rico\u00a0Nasty",
- "header_image_thumbnail_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.300x300x1.png",
- "header_image_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.1000x1000x1.png",
- "id": 3772164,
- "lyrics_owner_id": 1532287,
+ "embed_content": "<div id='rg_embed_link_1434306' class='rg_embed_link' data-song-id='1434306'>Read <a href='https://genius.com/John-legend-coming-home-lyrics'>\u201cComing Home\u201d by John\u00a0Legend</a> on Genius</div> <script crossorigin src='//genius.com/songs/1434306/embed.js'></script>",
+ "featured_video": false,
+ "full_title": "Coming Home by\u00a0John\u00a0Legend",
+ "header_image_thumbnail_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
+ "id": 1434306,
+ "lyrics_owner_id": 1549345,
  "lyrics_placeholder_reason": null,
  "lyrics_state": "complete",
- "path": "/Rico-nasty-countin-up-lyrics",
- "pyongs_count": 1,
+ "path": "/John-legend-coming-home-lyrics",
+ "pyongs_count": null,
  "recording_location": null,
- "release_date": "2018-06-15",
- "release_date_for_display": "June 15, 2018",
- "song_art_image_thumbnail_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.300x300x1.png",
- "song_art_image_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.1000x1000x1.png",
+ "release_date": null,
+ "release_date_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
  "stats": {
-  "accepted_annotations": 3,
-  "contributors": 30,
-  "iq_earners": 30,
-  "transcribers": 4,
-  "unreviewed_annotations": 5,
+  "accepted_annotations": 0,
+  "contributors": 4,
+  "iq_earners": 3,
+  "transcribers": 2,
+  "unreviewed_annotations": 0,
   "verified_annotations": 0,
-  "hot": false,
-  "pageviews": 51499
+  "hot": false
  },
- "title": "Countin\u2019 Up",
- "title_with_featured": "Countin' Up",
- "url": "https://genius.com/Rico-nasty-countin-up-lyrics",
+ "title": "Coming Home",
+ "title_with_featured": "Coming Home",
+ "url": "https://genius.com/John-legend-coming-home-lyrics",
  "current_user_metadata": {
   "permissions": [
-   "see_pageviews",
    "view_apple_music_player",
    "create_comment",
    "view_song_story_gallery"
@@ -46,6 +44,7 @@
    "follow",
    "award_transcription_iq",
    "remove_transcription_iq",
+   "see_pageviews",
    "pyong",
    "edit_lyrics",
    "view_annotation_engagement_data",
@@ -107,248 +106,102 @@
   "iq_by_action": {}
  },
  "album": {
-  "api_path": "/albums/424725",
-  "cover_art_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.1000x1000x1.png",
-  "full_title": "Nasty  by Rico Nasty",
-  "id": 424725,
-  "name": "Nasty ",
-  "url": "https://genius.com/albums/Rico-nasty/Nasty",
+  "api_path": "/albums/17178",
+  "cover_art_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
+  "full_title": "Once Again by John Legend",
+  "id": 17178,
+  "name": "Once Again",
+  "url": "https://genius.com/albums/John-legend/Once-again",
   "artist": {
-   "api_path": "/artists/881997",
-   "header_image_url": "https://images.genius.com/9764e9fc124a7db45fd9f9c93b7d9d71.1000x469x1.jpg",
-   "id": 881997,
-   "image_url": "https://images.genius.com/d4fc7186314b3c644f4020a6b1d13992.317x317x1.png",
-   "is_meme_verified": false,
+   "api_path": "/artists/365",
+   "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
+   "id": 365,
+   "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
+   "is_meme_verified": true,
    "is_verified": true,
-   "name": "Rico Nasty",
-   "url": "https://genius.com/artists/Rico-nasty",
-   "iq": 1304
+   "name": "John Legend",
+   "url": "https://genius.com/artists/John-legend",
+   "iq": 1861
   }
  },
  "custom_performances": [
   {
-   "label": "Performance Rights",
+   "label": "Label",
    "artists": [
     {
-     "api_path": "/artists/551598",
-     "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
-     "id": 551598,
-     "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "ASCAP",
-     "url": "https://genius.com/artists/Ascap"
+     "api_path": "/artists/30372",
+     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+     "id": 30372,
+     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Columbia Records",
+     "url": "https://genius.com/artists/Columbia-records",
+     "iq": 127
     },
     {
-     "api_path": "/artists/1138091",
-     "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
-     "id": 1138091,
-     "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+     "api_path": "/artists/213768",
+     "header_image_url": "https://images.genius.com/e033b66a25c548d0a2bc29cbbdda244a.770x433x1.jpg",
+     "id": 213768,
+     "image_url": "https://images.genius.com/299224af186138eff34848f0c12e80df.617x617x1.jpg",
      "is_meme_verified": false,
      "is_verified": false,
-     "name": "BMI",
-     "url": "https://genius.com/artists/Bmi"
-    }
-   ]
-  },
-  {
-   "label": "Publisher",
-   "artists": [
-    {
-     "api_path": "/artists/1361179",
-     "header_image_url": "https://images.genius.com/cf2ebf5e2a9c537747846c8afe6d4c77.512x92x1.jpg",
-     "id": 1361179,
-     "image_url": "https://images.genius.com/1f959d6d496e992de13cbe72baf343dd.396x396x1.png",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "SONGS Music Publishing",
-     "url": "https://genius.com/artists/Songs-music-publishing"
-    },
-    {
-     "api_path": "/artists/645782",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 645782,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Windswept Music",
-     "url": "https://genius.com/artists/Windswept-music"
-    },
-    {
-     "api_path": "/artists/648055",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 648055,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Waters Of Nazareth Publishing",
-     "url": "https://genius.com/artists/Waters-of-nazareth-publishing"
-    },
-    {
-     "api_path": "/artists/1100826",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 1100826,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "New World Music",
-     "url": "https://genius.com/artists/New-world-music"
-    },
-    {
-     "api_path": "/artists/1179023",
-     "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
-     "id": 1179023,
-     "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Kobalt Music",
-     "url": "https://genius.com/artists/Kobalt-music"
-    },
-    {
-     "api_path": "/artists/1011919",
-     "header_image_url": "https://images.genius.com/26596e664ee4244a3a112d1a0eefabe3.220x102x1.png",
-     "id": 1011919,
-     "image_url": "https://images.genius.com/f39d8c1ab1923335932d0b5356758f39.382x382x1.png",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "BMG",
-     "url": "https://genius.com/artists/Bmg"
-    },
-    {
-     "api_path": "/artists/1938081",
-     "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
-     "id": 1938081,
-     "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Artist Publishing Group",
-     "url": "https://genius.com/artists/Artist-publishing-group"
-    },
-    {
-     "api_path": "/artists/2271557",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 2271557,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Suite Twelve O Two Music",
-     "url": "https://genius.com/artists/Suite-twelve-o-two-music"
-    },
-    {
-     "api_path": "/artists/1417486",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 1417486,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Penalty Records",
-     "url": "https://genius.com/artists/Penalty-records"
-    },
-    {
-     "api_path": "/artists/992219",
-     "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
-     "id": 992219,
-     "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Warner-Tamerlane Publishing Corp.",
-     "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
-    },
-    {
-     "api_path": "/artists/1104563",
-     "header_image_url": "https://images.genius.com/6ee5d6766689e04358c1d0f8ea0ed8f0.600x600x1.png",
-     "id": 1104563,
-     "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Universal Music Group",
-     "url": "https://genius.com/artists/Universal-music-group"
-    },
-    {
-     "api_path": "/artists/2233056",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 2233056,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Kenny Beats Publishing",
-     "url": "https://genius.com/artists/Kenny-beats-publishing"
-    },
-    {
-     "api_path": "/artists/1012194",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 1012194,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "Jose Luis Gotcha Music",
-     "url": "https://genius.com/artists/Jose-luis-gotcha-music"
-    },
-    {
-     "api_path": "/artists/569149",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "id": 569149,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "EMI Blackwood Music",
-     "url": "https://genius.com/artists/Emi-blackwood-music"
+     "name": "G.O.O.D. Music",
+     "url": "https://genius.com/artists/Good-music"
     }
    ]
   }
  ],
  "description_annotation": {
   "_type": "referent",
-  "annotator_id": 6915451,
-  "annotator_login": "BreVibez",
-  "api_path": "/referents/14748183",
-  "classification": "unreviewed",
-  "fragment": "Countin\u2019 Up",
-  "id": 14748183,
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/5946106",
+  "classification": "needs_exegesis",
+  "fragment": "Coming Home",
+  "id": 5946106,
   "is_description": true,
-  "path": "/14748183/Rico-nasty-countin-up/Countin-up",
+  "path": "/5946106/John-legend-coming-home/Coming-home",
   "range": {
-   "content": "Countin' Up"
+   "content": "Coming Home"
   },
-  "song_id": 3772164,
-  "url": "https://genius.com/14748183/Rico-nasty-countin-up/Countin-up",
+  "song_id": 1434306,
+  "url": "https://genius.com/5946106/John-legend-coming-home/Coming-home",
   "verified_annotator_ids": [],
   "annotatable": {
-   "api_path": "/songs/3772164",
+   "api_path": "/songs/1434306",
    "client_timestamps": {
-    "updated_by_human_at": 1594999725,
-    "lyrics_updated_at": 1566304548
+    "updated_by_human_at": 1516471316,
+    "lyrics_updated_at": 1496696967
    },
-   "context": "Rico Nasty",
-   "id": 3772164,
-   "image_url": "https://images.genius.com/d655013619091109155fd23e0ea7a281.1000x1000x1.png",
-   "link_title": "Countin\u2019 Up by\u00a0Rico\u00a0Nasty",
-   "title": "Countin' Up",
+   "context": "John Legend",
+   "id": 1434306,
+   "image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
+   "link_title": "Coming Home by\u00a0John\u00a0Legend",
+   "title": "Coming Home",
    "type": "Song",
-   "url": "https://genius.com/Rico-nasty-countin-up-lyrics"
+   "url": "https://genius.com/John-legend-coming-home-lyrics"
   },
   "annotations": [
    {
-    "api_path": "/annotations/14748183",
+    "api_path": "/annotations/5946106",
     "body": {
-     "plain": "Countin' Up is one of the hottest singles on Rico Nasty\u2019s album \u201cNasty\u201d It features her glow up in her career and lets her haters know she doesn\u2019t care because she\u2019s getting paid."
+     "plain": ""
     },
-    "comment_count": 1,
+    "comment_count": 0,
     "community": true,
     "custom_preview": null,
-    "has_voters": true,
-    "id": 14748183,
+    "has_voters": false,
+    "id": 5946106,
     "pinned": false,
-    "share_url": "https://genius.com/14748183",
+    "share_url": "https://genius.com/5946106",
     "source": null,
-    "state": "pending",
-    "url": "https://genius.com/14748183/Rico-nasty-countin-up/Countin-up",
+    "state": "needs_exegesis",
+    "url": "https://genius.com/5946106/John-legend-coming-home/Coming-home",
     "verified": false,
-    "votes_total": 6,
+    "votes_total": 0,
     "current_user_metadata": {
-     "permissions": [
-      "create_comment"
-     ],
+     "permissions": [],
      "excluded_permissions": [
       "vote",
       "edit",
@@ -363,7 +216,8 @@
       "pin_to_profile",
       "unpin_from_profile",
       "update_source",
-      "edit_custom_preview"
+      "edit_custom_preview",
+      "create_comment"
      ],
      "interactions": {
       "cosign": false,
@@ -377,45 +231,45 @@
       "attribution": 1.0,
       "pinned_role": null,
       "user": {
-       "api_path": "/users/6915451",
+       "api_path": "/users/1549345",
        "avatar": {
         "tiny": {
-         "url": "https://images.genius.com/avatars/tiny/e9ef736599ddb7ebec1c85bed46df19f",
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://images.genius.com/avatars/thumb/e9ef736599ddb7ebec1c85bed46df19f",
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://images.genius.com/avatars/small/e9ef736599ddb7ebec1c85bed46df19f",
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://images.genius.com/avatars/medium/e9ef736599ddb7ebec1c85bed46df19f",
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8i6afrsmjml",
-       "human_readable_role_for_display": "Contributor",
-       "id": 6915451,
-       "iq": 2142,
-       "login": "BreVibez",
-       "name": "BreVibez",
-       "role_for_display": "contributor",
-       "url": "https://genius.com/BreVibez",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
        "current_user_metadata": {
         "permissions": [],
         "excluded_permissions": [
@@ -441,78 +295,38 @@
    "provider": "youtube",
    "start": 0,
    "type": "video",
-   "url": "http://www.youtube.com/watch?v=UdP75cxwQIU"
-  },
-  {
-   "attribution": "rico_nasty",
-   "provider": "soundcloud",
-   "type": "audio",
-   "url": "https://soundcloud.com/rico_nasty/countin-up?in=rico_nasty/sets/nasty"
+   "url": "http://www.youtube.com/watch?v=_pGSk2-jZ-4"
   }
  ],
  "primary_artist": {
-  "api_path": "/artists/881997",
-  "header_image_url": "https://images.genius.com/9764e9fc124a7db45fd9f9c93b7d9d71.1000x469x1.jpg",
-  "id": 881997,
-  "image_url": "https://images.genius.com/d4fc7186314b3c644f4020a6b1d13992.317x317x1.png",
-  "is_meme_verified": false,
+  "api_path": "/artists/365",
+  "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
+  "id": 365,
+  "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
+  "is_meme_verified": true,
   "is_verified": true,
-  "name": "Rico Nasty",
-  "url": "https://genius.com/artists/Rico-nasty",
-  "iq": 1304
+  "name": "John Legend",
+  "url": "https://genius.com/artists/John-legend",
+  "iq": 1861
  },
  "producer_artists": [
   {
-   "api_path": "/artists/46806",
-   "header_image_url": "https://images.genius.com/83908d120057a326f4ecf2d9d29c43cb.960x640x1.jpg",
-   "id": 46806,
-   "image_url": "https://images.genius.com/c55a714fbbcdd11ea5aa1d98bbfee506.636x636x1.jpg",
+   "api_path": "/artists/713",
+   "header_image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+   "id": 713,
+   "image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
    "is_meme_verified": false,
    "is_verified": true,
-   "name": "Kenny Beats",
-   "url": "https://genius.com/artists/Kenny-beats",
-   "iq": 395
+   "name": "\u200bwill.i.am",
+   "url": "https://genius.com/artists/William",
+   "iq": 1342
   }
  ],
  "song_relationships": [
   {
    "relationship_type": "samples",
    "type": "samples",
-   "songs": [
-    {
-     "annotation_count": 21,
-     "api_path": "/songs/35557",
-     "full_title": "Superthug by\u00a0N.O.R.E.",
-     "header_image_thumbnail_url": "https://images.rapgenius.com/3bee1df70f43000a6ba85504e0efd150.300x259x1.jpg",
-     "header_image_url": "https://images.rapgenius.com/3bee1df70f43000a6ba85504e0efd150.819x706x1.jpg",
-     "id": 35557,
-     "lyrics_owner_id": 50,
-     "lyrics_state": "complete",
-     "path": "/Nore-superthug-lyrics",
-     "pyongs_count": 8,
-     "song_art_image_thumbnail_url": "https://images.genius.com/17bb8fe791858f347f17ebb8fd27944f.300x261x1.jpg",
-     "song_art_image_url": "https://images.genius.com/17bb8fe791858f347f17ebb8fd27944f.600x522x1.jpg",
-     "stats": {
-      "unreviewed_annotations": 3,
-      "hot": false,
-      "pageviews": 33051
-     },
-     "title": "Superthug",
-     "title_with_featured": "Superthug",
-     "url": "https://genius.com/Nore-superthug-lyrics",
-     "primary_artist": {
-      "api_path": "/artists/403",
-      "header_image_url": "https://s3.amazonaws.com/rapgenius/1362192151_NORE.jpg",
-      "id": 403,
-      "image_url": "https://s3.amazonaws.com/rapgenius/1362192151_NORE.jpg",
-      "is_meme_verified": true,
-      "is_verified": true,
-      "name": "N.O.R.E.",
-      "url": "https://genius.com/artists/Nore",
-      "iq": 3582
-     }
-    }
-   ]
+   "songs": []
   },
   {
    "relationship_type": "sampled_in",
@@ -547,7 +361,40 @@
   {
    "relationship_type": "remixed_by",
    "type": "remixed_by",
-   "songs": []
+   "songs": [
+    {
+     "annotation_count": 13,
+     "api_path": "/songs/407614",
+     "full_title": "A Modo Mio (Ruff) by\u00a0Mecna",
+     "header_image_thumbnail_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.300x300x1.jpg",
+     "header_image_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.500x500x1.jpg",
+     "id": 407614,
+     "lyrics_owner_id": 795469,
+     "lyrics_state": "complete",
+     "path": "/Mecna-a-modo-mio-ruff-lyrics",
+     "pyongs_count": 3,
+     "song_art_image_thumbnail_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.300x300x1.jpg",
+     "song_art_image_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.500x500x1.jpg",
+     "stats": {
+      "unreviewed_annotations": 10,
+      "hot": false,
+      "pageviews": 12710
+     },
+     "title": "A Modo Mio (Ruff)",
+     "title_with_featured": "A Modo Mio (Ruff)",
+     "url": "https://genius.com/Mecna-a-modo-mio-ruff-lyrics",
+     "primary_artist": {
+      "api_path": "/artists/47729",
+      "header_image_url": "https://images.genius.com/130ccac4b907654fda29630d91edcfb5.1000x563x1.jpg",
+      "id": 47729,
+      "image_url": "https://images.genius.com/19f52774db1e17e8d1a8fe148a86278b.576x576x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Mecna",
+      "url": "https://genius.com/artists/Mecna"
+     }
+    }
+   ]
   },
   {
    "relationship_type": "live_version_of",
@@ -565,69 +412,27 @@
  "verified_lyrics_by": [],
  "writer_artists": [
   {
-   "api_path": "/artists/2271271",
-   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
-   "id": 2271271,
-   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1600973943",
+   "api_path": "/artists/713",
+   "header_image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+   "id": 713,
+   "image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
    "is_meme_verified": false,
-   "is_verified": false,
-   "name": "Malik Foxx",
-   "url": "https://genius.com/artists/Malik-foxx"
+   "is_verified": true,
+   "name": "\u200bwill.i.am",
+   "url": "https://genius.com/artists/William",
+   "iq": 1342
   },
   {
-   "api_path": "/artists/403",
-   "header_image_url": "https://s3.amazonaws.com/rapgenius/1362192151_NORE.jpg",
-   "id": 403,
-   "image_url": "https://s3.amazonaws.com/rapgenius/1362192151_NORE.jpg",
+   "api_path": "/artists/365",
+   "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
+   "id": 365,
+   "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
    "is_meme_verified": true,
    "is_verified": true,
-   "name": "N.O.R.E.",
-   "url": "https://genius.com/artists/Nore",
-   "iq": 3582
-  },
-  {
-   "api_path": "/artists/26832",
-   "header_image_url": "https://images.genius.com/e44c3e1271028d1241385423e10960bc.500x365x1.jpg",
-   "id": 26832,
-   "image_url": "https://images.genius.com/e44c3e1271028d1241385423e10960bc.500x365x1.jpg",
-   "is_meme_verified": false,
-   "is_verified": false,
-   "name": "Chad Hugo",
-   "url": "https://genius.com/artists/Chad-hugo"
-  },
-  {
-   "api_path": "/artists/110",
-   "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
-   "id": 110,
-   "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
-   "is_meme_verified": true,
-   "is_verified": true,
-   "name": "Pharrell Williams",
-   "url": "https://genius.com/artists/Pharrell-williams",
-   "iq": 660
-  },
-  {
-   "api_path": "/artists/46806",
-   "header_image_url": "https://images.genius.com/83908d120057a326f4ecf2d9d29c43cb.960x640x1.jpg",
-   "id": 46806,
-   "image_url": "https://images.genius.com/c55a714fbbcdd11ea5aa1d98bbfee506.636x636x1.jpg",
-   "is_meme_verified": false,
-   "is_verified": true,
-   "name": "Kenny Beats",
-   "url": "https://genius.com/artists/Kenny-beats",
-   "iq": 395
-  },
-  {
-   "api_path": "/artists/881997",
-   "header_image_url": "https://images.genius.com/9764e9fc124a7db45fd9f9c93b7d9d71.1000x469x1.jpg",
-   "id": 881997,
-   "image_url": "https://images.genius.com/d4fc7186314b3c644f4020a6b1d13992.317x317x1.png",
-   "is_meme_verified": false,
-   "is_verified": true,
-   "name": "Rico Nasty",
-   "url": "https://genius.com/artists/Rico-nasty",
-   "iq": 1304
+   "name": "John Legend",
+   "url": "https://genius.com/artists/John-legend",
+   "iq": 1861
   }
  ],
- "lyrics": "Hello? Yeah bitch, I said I'm on my way\nHello? Yeah bitch, I said I'm on my way\nThe fuck? Bitch I'm coming the fuck?\nWoah! Kenny! Yeah!\n\nI'm the bitch with the long hair and her top off\nTalk tough, like a bottle top, we twist your top off\nHad to hit the turn quick, just to get the narcs off\nI'm the real deal shawty and you just the knock off\nShake it up, no Coca-Cola, I'm the one that pop off\nHit me on my Motorola if you need some narcos\nI've been workin' every day, no, I ain't never call off\nTalkin' shit on Instagram, that pistol make you log off\nIt's upsettin' that these bitches think they better than me\nI got the bar too high and it's hard to beat\nGucci shades tint dark so it's hard to see\nThe easy part is gettin' money but it's hard to keep\nI know you seein' that I'm busy so don't bother me\nLike I passed every test, you ain't as smart as me\nYou a stunt double, shawty, you a wanna be\nSee me on the scene, you know that I charged the fee\nLike yeah!\n\nWhat? What? What? What? What? What?\nBitches on my dick, so what?\nWhat? What? What? What? What? What?\nIt don't matter 'cause I'm steady countin' up\nWhat? What? What? What? What? What?\nBitches on my dick, so what?\nWhat? What? What? What? What? What?\nIt don't matter 'cause I'm steady countin' up\n\nYou can't even handle a bitch like me\nMake my own money, and I buy my own weed\nTouch my wrist and your hand gon' freeze\nBeggin' for the kitty on his hands and knees\nWho you frontin' on? Come on girl, I know you a rookie\nYou got some followers, so what? Do you want you a cookie?\nI got promoters throwin' shows so they can say that they booked me\nWhen I walk up in the mall, they be turnin' and lookin'\nNo race, I went easy 'cause the pace I been pushin'\nIn the stew, I'm like a chef, they like, \"Rico, what you cookin'?\"\nProbably one of these bitches' heads, I'm better than all the rest\nNo this is not a drill, hoe, this shit is not a test\nI think you need to roll out, catch you actin' too hesitant\nI bet you can't count all the money that I just spent\nNiggas singin' to the feds like they Jazmine Sullivan\nMy racks too big, I just popped my rubber band\n\nWhat? What? What? What? What? What?\nBitches on my dick, so what?\nWhat? What? What? What? What? What?\nIt don't matter 'cause I'm steady countin' up\nWhat? What? What? What? What? What?\nBitches on my dick, so what?\nWhat? What? What? What? What? What?\nIt don't matter 'cause I'm steady countin' up"
+ "lyrics": "A father waits upon his son\nA mother prays for his return\nI just called to see\nIf you still have a place for me\nWe know that life took us apart\nBut you're still within my heart\nI go to sleep and feel your spirit next to me\n\nI'll make it home again\nI pray you'll fall in love again\nJust say you'll entertain the possibility\nI learned enough from my mistakes\nLearned from all I didn't say\nWon't you wait for me\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home\n\nWe fight to stay alive\nBut somebody's got to die\nIt's so strange to me\nA new year, a new enemy\nAnother soldier gone to war\nAnother story told before\nNow it's told again\nIt seems the wars will never end\n\nBut we'll make it home again\nBack where we belong again\nWe're holding on to when\nWe used to dare to dream\nWe pray we live to see\nAnother day in history\nYes we still believe\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home\n\nComing home (I'm coming, I'm coming)\nComing home  (I'm coming, I'm coming)\n(I'm coming, I'm coming)\nYou know that I'll be coming home\n(I'm coming, I'm coming)\nComing home (I'm coming, I'm coming)\nI'll be coming  (I'm coming, I'm coming)\nYou know that I'll be coming home\nI'll be coming home\nWon't you lift me?\nWon't you pray for me? Yeah\nI'll be coming home\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home"
 }
