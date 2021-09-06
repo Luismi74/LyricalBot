@@ -1,41 +1,53 @@
 {
- "annotation_count": 1,
- "api_path": "/songs/1434306",
- "apple_music_id": "716616975",
- "apple_music_player_url": "https://genius.com/songs/1434306/apple_music_player",
- "description": {
-  "plain": "?"
- },
- "embed_content": "<div id='rg_embed_link_1434306' class='rg_embed_link' data-song-id='1434306'>Read <a href='https://genius.com/John-legend-coming-home-lyrics'>\u201cComing Home\u201d by John\u00a0Legend</a> on Genius</div> <script crossorigin src='//genius.com/songs/1434306/embed.js'></script>",
- "featured_video": false,
- "full_title": "Coming Home by\u00a0John\u00a0Legend",
- "header_image_thumbnail_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.300x300x1.jpg",
- "header_image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
- "id": 1434306,
- "lyrics_owner_id": 1549345,
- "lyrics_placeholder_reason": null,
+ "annotation_count": 20,
+ "api_path": "/songs/232818",
+ "full_title": "Arr\u00eate by\u00a0Casseurs\u00a0Flowters",
+ "header_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+ "id": 232818,
+ "lyrics_owner_id": 210167,
  "lyrics_state": "complete",
- "path": "/John-legend-coming-home-lyrics",
- "pyongs_count": null,
- "recording_location": null,
- "release_date": null,
- "release_date_for_display": null,
- "song_art_image_thumbnail_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.300x300x1.jpg",
- "song_art_image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
+ "path": "/Casseurs-flowters-arrete-lyrics",
+ "pyongs_count": 2,
+ "song_art_image_thumbnail_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
  "stats": {
-  "accepted_annotations": 0,
-  "contributors": 4,
-  "iq_earners": 3,
-  "transcribers": 2,
+  "accepted_annotations": 19,
+  "contributors": 17,
+  "iq_earners": 16,
+  "transcribers": 3,
   "unreviewed_annotations": 0,
   "verified_annotations": 0,
-  "hot": false
+  "hot": false,
+  "pageviews": 8614
  },
- "title": "Coming Home",
- "title_with_featured": "Coming Home",
- "url": "https://genius.com/John-legend-coming-home-lyrics",
+ "title": "Arr\u00eate",
+ "title_with_featured": "Arr\u00eate",
+ "url": "https://genius.com/Casseurs-flowters-arrete-lyrics",
+ "primary_artist": {
+  "api_path": "/artists/20190",
+  "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+  "id": 20190,
+  "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Casseurs Flowters",
+  "url": "https://genius.com/artists/Casseurs-flowters"
+ },
+ "apple_music_id": null,
+ "apple_music_player_url": "https://genius.com/songs/232818/apple_music_player",
+ "description": {
+  "plain": "REJOINS RAP GENIUS FR \u203a"
+ },
+ "embed_content": "<div id='rg_embed_link_232818' class='rg_embed_link' data-song-id='232818'>Read <a href='https://genius.com/Casseurs-flowters-arrete-lyrics'>\u201cArr\u00eate\u201d by Casseurs\u00a0Flowters</a> on Genius</div> <script crossorigin src='//genius.com/songs/232818/embed.js'></script>",
+ "featured_video": false,
+ "lyrics_placeholder_reason": null,
+ "recording_location": null,
+ "release_date": null,
+ "release_date_for_display": "2006",
  "current_user_metadata": {
   "permissions": [
+   "see_pageviews",
    "view_apple_music_player",
    "create_comment",
    "view_song_story_gallery"
@@ -44,7 +56,6 @@
    "follow",
    "award_transcription_iq",
    "remove_transcription_iq",
-   "see_pageviews",
    "pyong",
    "edit_lyrics",
    "view_annotation_engagement_data",
@@ -85,6 +96,7 @@
    "mark_lyrics_evaluation_as_un_staff_approved",
    "view_transcriber_media_player",
    "override_apple_match",
+   "set_song_color_gradient",
    "edit_youtube_url",
    "edit_soundcloud_url",
    "edit_spotify_uuid",
@@ -106,102 +118,76 @@
   "iq_by_action": {}
  },
  "album": {
-  "api_path": "/albums/17178",
-  "cover_art_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
-  "full_title": "Once Again by John Legend",
-  "id": 17178,
-  "name": "Once Again",
-  "url": "https://genius.com/albums/John-legend/Once-again",
+  "api_path": "/albums/685136",
+  "cover_art_url": "https://images.genius.com/42dac704bf3b198fbfb17654a7222ded.591x591x1.jpg",
+  "full_title": "Ombre 2 Choc Vol. 02 by Jok1 Le Chef",
+  "id": 685136,
+  "name": "Ombre 2 Choc Vol. 02",
+  "url": "https://genius.com/albums/Jok1-le-chef/Ombre-2-choc-vol-02",
   "artist": {
-   "api_path": "/artists/365",
-   "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
-   "id": 365,
-   "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
-   "is_meme_verified": true,
-   "is_verified": true,
-   "name": "John Legend",
-   "url": "https://genius.com/artists/John-legend",
-   "iq": 1861
+   "api_path": "/artists/2085778",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1630526903",
+   "id": 2085778,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1630526903",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jok1 Le Chef",
+   "url": "https://genius.com/artists/Jok1-le-chef"
   }
  },
- "custom_performances": [
-  {
-   "label": "Label",
-   "artists": [
-    {
-     "api_path": "/artists/30372",
-     "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
-     "id": 30372,
-     "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
-     "is_meme_verified": true,
-     "is_verified": true,
-     "name": "Columbia Records",
-     "url": "https://genius.com/artists/Columbia-records",
-     "iq": 127
-    },
-    {
-     "api_path": "/artists/213768",
-     "header_image_url": "https://images.genius.com/e033b66a25c548d0a2bc29cbbdda244a.770x433x1.jpg",
-     "id": 213768,
-     "image_url": "https://images.genius.com/299224af186138eff34848f0c12e80df.617x617x1.jpg",
-     "is_meme_verified": false,
-     "is_verified": false,
-     "name": "G.O.O.D. Music",
-     "url": "https://genius.com/artists/Good-music"
-    }
-   ]
-  }
- ],
+ "custom_performances": [],
  "description_annotation": {
   "_type": "referent",
-  "annotator_id": 1549345,
-  "annotator_login": "pressburg",
-  "api_path": "/referents/5946106",
-  "classification": "needs_exegesis",
-  "fragment": "Coming Home",
-  "id": 5946106,
+  "annotator_id": 112706,
+  "annotator_login": "punchline",
+  "api_path": "/referents/3733842",
+  "classification": "accepted",
+  "fragment": "Arr\u00eate",
+  "id": 3733842,
   "is_description": true,
-  "path": "/5946106/John-legend-coming-home/Coming-home",
+  "path": "/3733842/Casseurs-flowters-arrete/Arrete",
   "range": {
-   "content": "Coming Home"
+   "content": "Arr\u00eate"
   },
-  "song_id": 1434306,
-  "url": "https://genius.com/5946106/John-legend-coming-home/Coming-home",
+  "song_id": 232818,
+  "url": "https://genius.com/3733842/Casseurs-flowters-arrete/Arrete",
   "verified_annotator_ids": [],
   "annotatable": {
-   "api_path": "/songs/1434306",
+   "api_path": "/songs/232818",
    "client_timestamps": {
-    "updated_by_human_at": 1516471316,
-    "lyrics_updated_at": 1496696967
+    "updated_by_human_at": 1601840494,
+    "lyrics_updated_at": 1601840467
    },
-   "context": "John Legend",
-   "id": 1434306,
-   "image_url": "https://images.genius.com/67b2d737c94aa637942aed6864a1eda3.1000x1000x1.jpg",
-   "link_title": "Coming Home by\u00a0John\u00a0Legend",
-   "title": "Coming Home",
+   "context": "Casseurs Flowters",
+   "id": 232818,
+   "image_url": "https://images.genius.com/8a14de47a303c90ff5a636a9091c8389.500x500x1.jpg",
+   "link_title": "Arr\u00eate by\u00a0Casseurs\u00a0Flowters",
+   "title": "Arr\u00eate",
    "type": "Song",
-   "url": "https://genius.com/John-legend-coming-home-lyrics"
+   "url": "https://genius.com/Casseurs-flowters-arrete-lyrics"
   },
   "annotations": [
    {
-    "api_path": "/annotations/5946106",
+    "api_path": "/annotations/3733842",
     "body": {
-     "plain": ""
+     "plain": "REJOINS RAP GENIUS FR \u203a"
     },
     "comment_count": 0,
     "community": true,
     "custom_preview": null,
     "has_voters": false,
-    "id": 5946106,
+    "id": 3733842,
     "pinned": false,
-    "share_url": "https://genius.com/5946106",
+    "share_url": "https://genius.com/3733842",
     "source": null,
-    "state": "needs_exegesis",
-    "url": "https://genius.com/5946106/John-legend-coming-home/Coming-home",
+    "state": "accepted",
+    "url": "https://genius.com/3733842/Casseurs-flowters-arrete/Arrete",
     "verified": false,
     "votes_total": 0,
     "current_user_metadata": {
-     "permissions": [],
+     "permissions": [
+      "create_comment"
+     ],
      "excluded_permissions": [
       "vote",
       "edit",
@@ -216,8 +202,7 @@
       "pin_to_profile",
       "unpin_from_profile",
       "update_source",
-      "edit_custom_preview",
-      "create_comment"
+      "edit_custom_preview"
      ],
      "interactions": {
       "cosign": false,
@@ -231,45 +216,45 @@
       "attribution": 1.0,
       "pinned_role": null,
       "user": {
-       "api_path": "/users/1549345",
+       "api_path": "/users/112706",
        "avatar": {
         "tiny": {
-         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/tiny/5ebd8448cc80e5a015134889c8cf39e4",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/thumb/5ebd8448cc80e5a015134889c8cf39e4",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/small/5ebd8448cc80e5a015134889c8cf39e4",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "url": "https://images.genius.com/avatars/medium/5ebd8448cc80e5a015134889c8cf39e4",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
-       "human_readable_role_for_display": null,
-       "id": 1549345,
-       "iq": 0,
-       "login": "pressburg",
-       "name": "pressburg",
-       "role_for_display": null,
-       "url": "https://genius.com/pressburg",
+       "header_image_url": "https://images.genius.com/avatars/medium/5ebd8448cc80e5a015134889c8cf39e4",
+       "human_readable_role_for_display": "Moderator",
+       "id": 112706,
+       "iq": 218513,
+       "login": "punchline",
+       "name": "punchline",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/punchline",
        "current_user_metadata": {
         "permissions": [],
         "excluded_permissions": [
@@ -295,31 +280,19 @@
    "provider": "youtube",
    "start": 0,
    "type": "video",
-   "url": "http://www.youtube.com/watch?v=_pGSk2-jZ-4"
+   "url": "http://www.youtube.com/watch?v=FN5oqLIk0kk"
   }
  ],
- "primary_artist": {
-  "api_path": "/artists/365",
-  "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
-  "id": 365,
-  "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
-  "is_meme_verified": true,
-  "is_verified": true,
-  "name": "John Legend",
-  "url": "https://genius.com/artists/John-legend",
-  "iq": 1861
- },
  "producer_artists": [
   {
-   "api_path": "/artists/713",
-   "header_image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
-   "id": 713,
-   "image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+   "api_path": "/artists/36718",
+   "header_image_url": "https://images.genius.com/aa302397227cdb202c6458fef94bac95.1000x667x1.jpg",
+   "id": 36718,
+   "image_url": "https://images.genius.com/aff1594ed4307af0bfb56adf0cf0ec5e.1000x1000x1.jpg",
    "is_meme_verified": false,
-   "is_verified": true,
-   "name": "\u200bwill.i.am",
-   "url": "https://genius.com/artists/William",
-   "iq": 1342
+   "is_verified": false,
+   "name": "Skread",
+   "url": "https://genius.com/artists/Skread"
   }
  ],
  "song_relationships": [
@@ -361,40 +334,7 @@
   {
    "relationship_type": "remixed_by",
    "type": "remixed_by",
-   "songs": [
-    {
-     "annotation_count": 13,
-     "api_path": "/songs/407614",
-     "full_title": "A Modo Mio (Ruff) by\u00a0Mecna",
-     "header_image_thumbnail_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.300x300x1.jpg",
-     "header_image_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.500x500x1.jpg",
-     "id": 407614,
-     "lyrics_owner_id": 795469,
-     "lyrics_state": "complete",
-     "path": "/Mecna-a-modo-mio-ruff-lyrics",
-     "pyongs_count": 3,
-     "song_art_image_thumbnail_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.300x300x1.jpg",
-     "song_art_image_url": "https://images.genius.com/4452010fd3d2c7e9a91eb4714d869c5e.500x500x1.jpg",
-     "stats": {
-      "unreviewed_annotations": 10,
-      "hot": false,
-      "pageviews": 12710
-     },
-     "title": "A Modo Mio (Ruff)",
-     "title_with_featured": "A Modo Mio (Ruff)",
-     "url": "https://genius.com/Mecna-a-modo-mio-ruff-lyrics",
-     "primary_artist": {
-      "api_path": "/artists/47729",
-      "header_image_url": "https://images.genius.com/130ccac4b907654fda29630d91edcfb5.1000x563x1.jpg",
-      "id": 47729,
-      "image_url": "https://images.genius.com/19f52774db1e17e8d1a8fe148a86278b.576x576x1.jpg",
-      "is_meme_verified": false,
-      "is_verified": false,
-      "name": "Mecna",
-      "url": "https://genius.com/artists/Mecna"
-     }
-    }
-   ]
+   "songs": []
   },
   {
    "relationship_type": "live_version_of",
@@ -412,27 +352,16 @@
  "verified_lyrics_by": [],
  "writer_artists": [
   {
-   "api_path": "/artists/713",
-   "header_image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
-   "id": 713,
-   "image_url": "https://images.genius.com/5fc27cccefca33010389f8f80fd29edb.892x892x1.jpg",
+   "api_path": "/artists/20190",
+   "header_image_url": "https://images.genius.com/2540d69e7c0624b0eda0e3d000e30ca0.480x270x15.gif",
+   "id": 20190,
+   "image_url": "https://images.genius.com/cc784cda0cc9dc506506ed606af31c2c.357x357x1.png",
    "is_meme_verified": false,
-   "is_verified": true,
-   "name": "\u200bwill.i.am",
-   "url": "https://genius.com/artists/William",
-   "iq": 1342
-  },
-  {
-   "api_path": "/artists/365",
-   "header_image_url": "https://images.genius.com/f8a1e2086795298f328e3993e3c87105.667x1000x1.jpg",
-   "id": 365,
-   "image_url": "https://images.genius.com/bd03e06628a565b7838715dfd78e346c.1000x1000x1.jpg",
-   "is_meme_verified": true,
-   "is_verified": true,
-   "name": "John Legend",
-   "url": "https://genius.com/artists/John-legend",
-   "iq": 1861
+   "is_verified": false,
+   "name": "Casseurs Flowters",
+   "url": "https://genius.com/artists/Casseurs-flowters"
   }
  ],
- "lyrics": "A father waits upon his son\nA mother prays for his return\nI just called to see\nIf you still have a place for me\nWe know that life took us apart\nBut you're still within my heart\nI go to sleep and feel your spirit next to me\n\nI'll make it home again\nI pray you'll fall in love again\nJust say you'll entertain the possibility\nI learned enough from my mistakes\nLearned from all I didn't say\nWon't you wait for me\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home\n\nWe fight to stay alive\nBut somebody's got to die\nIt's so strange to me\nA new year, a new enemy\nAnother soldier gone to war\nAnother story told before\nNow it's told again\nIt seems the wars will never end\n\nBut we'll make it home again\nBack where we belong again\nWe're holding on to when\nWe used to dare to dream\nWe pray we live to see\nAnother day in history\nYes we still believe\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home\n\nComing home (I'm coming, I'm coming)\nComing home  (I'm coming, I'm coming)\n(I'm coming, I'm coming)\nYou know that I'll be coming home\n(I'm coming, I'm coming)\nComing home (I'm coming, I'm coming)\nI'll be coming  (I'm coming, I'm coming)\nYou know that I'll be coming home\nI'll be coming home\nWon't you lift me?\nWon't you pray for me? Yeah\nI'll be coming home\n\nIt may be long to get me there\nIt feels like I've been everywhere\nBut someday I'll be coming home\nRound and round the world will spin\nOh, the circle never ends\nSo you know that I'll be coming home"
+ "artist": "Casseurs Flowters",
+ "lyrics": "Arr\u00eate de nous pomper, normalement c'est le r\u00f4le de ta m\u00e8re\nQuand elle prend son pied quand j'la k1 comme J\u00e9rome le Banner\nStop tes dr\u00f4les de mani\u00e8res, ok p\u00e9dale, remballe tes dames\nD\u00e9tale, car mon hip hop \u00e9gal langage des armes\nTu peux sabrer le champagne, me parler de chanvre et de chattes\nTon rap ferait plus de maille sapp\u00e9 en femme de chambre\nOblig\u00e9 de changer de cap mais fermez vos gueules quand je d\u00e9barque\nPareil en studio qu'avec ta go : moi j'rentre et je crache\nJ'me tape des filles \u00e0 la passe, rappe, envoie tes fils \u00e0 la DDASS\nPutain de rat des villes, j'rap mes billes \u00e0 la CAF\nJ'ai deux piles \u00e0 la place du c\u0153ur, j'suis venu piner le syst\u00e8me jusqu'\u00e0 plus d'heure\nJusqu'\u00e0 m'en faire des crampe aux adducteur\nCasseurs Flowters, d\u00e9marre, d\u00e9j\u00e0 tu pleures\nT'es pas un grand de ce monde, ton p\u00e8re t'as cl\u00e9-j' en 30 secondes\nJ'ai lu dans tes tablettes chez nous y aurait trop d'ill\u00e9tr\u00e9s\nBient\u00f4t vos petites tapettes, dans le r\u00e9tro d'mon Audi TT\n\nOn fait pleuvoir les phases sur vos fils de putes\nAvec la sensibilit\u00e9 du sc\u00e9nario d'un film de uc'\nOhoh, depuis qu'on a pris le dessus\n\u00c0 chaque nouveau couplet tu m'tailles une pipe de plus\nOn fait pleuvoir les phases sur vos fils de putes\nAvec la sensibilit\u00e9 du sc\u00e9nario d'un film de uc'\nOhoh, depuis qu'on a pris le dessus\n\u00c0 chaque nouveau couplet tu m'tailles une pipe de plus\n\nArr\u00eate un peu d'\u00e9couter les \"on dit\"\nPutain, on dirait qu'plus t'es conne plus tu blondies\nMa vie c'est \"thriller\" j'traine la nuit avec des zombies\nQuand un Casseur Flowter sort de l'ombre, c'est pour inonder les maisons de disque\nJ'me couche comme j'fais mon lit, j'dors dans le canap\u00e9\nTu seras bient\u00f4t rempli de sperme \u00e0 force d'en avaler\nContinue de jacasser j'rigole quand je vois tes potes s'encanailler\nSi ta pute sort sans cavalier, j'la fais rentrer en pas-chass\u00e9s\nC'est mauvaise augure, nos r\u00e9seaux sur ta platine\nQuand Palpatine lib\u00e8re le c\u00f4t\u00e9 obscure d'Anakin\nT'es juste un sac \u00e0 pine, arr\u00eate de croire les bruits de couloirs\nC'est la vraie vie c'est pas un film c'est jamais tout blanc ni tout noir\nJ't'assassine \u00e0 chaque rime, autant que Michael arrive \u00e0 s'faire blanchir\nOn vit la t\u00eate sous l'eau j'vais m'acheter des branchies\nJ'suis peut \u00eatre nouveau mais tu vas te faire plier\nAppelle moi Netsuko quand je trempe les mains dans le verre pil\u00e9\nAuthenticit\u00e9 certifi\u00e9e\nSi T.P savait rapper j'aurais plusieurs titres NBA\nPendant qu'tu chantes \"YMCA\" j'essaie de m'faire signer\nMaintenant, y a plein de 0 sur les ch\u00e8ques mais rien devant\n\nOn fait pleuvoir les phases sur vos fils de putes\nAvec la sensibilit\u00e9 du sc\u00e9nario d'un film de uc'\nOhoh, depuis qu'on a pris le dessus\n\u00c0 chaque nouveau couplet tu m'tailles une pipe de plus\nOn fait pleuvoir les phases sur vos fils de putes\nAvec la sensibilit\u00e9 du sc\u00e9nario d'un film de uc'\nOhoh, depuis qu'on a pris le dessus\n\u00c0 chaque nouveau couplet tu m'tailles une pipe de plus"
 }
