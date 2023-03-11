@@ -21,6 +21,6 @@ six==1.15.0
 tweepy==3.10.0
 urllib3==1.26.5
 virtualenv==20.0.14
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wincertstore==0.2
 zipp==3.1.0
