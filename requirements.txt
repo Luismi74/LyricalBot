@@ -9,7 +9,7 @@ Flask==2.2.3
 idna==3.4
 importlib-metadata==1.7.0
 itsdangerous==2.1.2
-Jinja2==2.11.3
+Jinja2==3.1.2
 lyricsgenius==3.0.1
 MarkupSafe==2.1.2
 oauthlib==3.2.2
