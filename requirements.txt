@@ -1,6 +1,6 @@
 appdirs==1.4.4
 beautifulsoup4==4.12.2
-certifi==2024.12.14
+certifi==2025.6.15
 chardet==5.2.0
 click==8.1.7
 distlib==0.3.6
